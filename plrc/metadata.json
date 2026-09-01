@@ -1,0 +1,6 @@
+{
+  "name": "President University Literature Club - Sintesis Cabinet",
+  "description": "Interactive minimalist platform for President University Literature Club (PLRC) Sintesis Cabinet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
